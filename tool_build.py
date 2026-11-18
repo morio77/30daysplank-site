@@ -5,7 +5,7 @@
 from pathlib import Path
 
 APP = "30daysプランクチャレンジ"
-EMAIL = ""  # 決まったら入れる（空のあいだは「準備中」と出す）
+EMAIL = "30daysplank.support@gmail.com"
 ENACTED = "2026年11月18日"
 
 
